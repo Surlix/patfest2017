@@ -1,9 +1,11 @@
 # patfest2017
 
-- Einladung/Flyer/Plakate gestalten
+- Einladung
+- Flyer
+- Plakate gestalten
 - Urkunden getalten
-- Blumenstrauß Referenten (ca 15-30€)
-- Jugendchor anfragen
+- Blumenstrauß Referenten (ca 15-30€) 
+- Jugendchor anfragen 
 - Seite im Gästebuch gestalten
 - Spiele aus dem SWCZ besorgen -> Bernd (auch für Spieleabend mit ESG)
 - Quiz Freitag
